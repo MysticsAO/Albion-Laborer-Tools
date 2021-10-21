@@ -4,7 +4,7 @@ Albion Laborer Tools is an server sided to MMORPG game - Albion Online. It finds
 
 
 # How to use this app
-> This app is easy to use just install the whole folder and run the .exe file
+> This app is easy to use just install the zip extract it and run the exe in the folder.
 > **Note** This app is still under development. Server may be down for some hours of day.
 
 
