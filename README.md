@@ -8,5 +8,5 @@ Albion Laborer Tools is an server sided to MMORPG game - Albion Online. It finds
 > **Note** This app is still under development. Server may be down for some hours of day.
 
 
-# How to use this app
+# Known issues
 > Detecs as virus at some browsers it causes for connection with server will fix it later..
